@@ -10,3 +10,27 @@
 [submodule "Ch01/01_04"]
 	path = Ch01/01_04
 	url = git@github.com-automate6500:automate6500/gocd-demo.git
+[submodule "Ch03/03_01"]
+	path = Ch03/03_01
+	url = git@github.com-automate6500:automate6500/aws-codepipeline-demo.git
+[submodule "Ch03/03_02"]
+	path = Ch03/03_02
+	url = git@ssh.dev.azure.com-automate6500:v3/automate6500/azure-pipelines-demo/azure-pipelines-demo
+[submodule "Ch04/04_03"]
+	path = Ch04/04_03
+	url = git@bitbucket.org-automate6500:automate6500/bitbucket-pipelines-demo.git
+[submodule "Ch02/02_03"]
+	path = Ch02/02_03
+	url = git@github.com-automate6500:automate6500/circleci-demo.git
+[submodule "Ch02/02_02"]
+	path = Ch02/02_02
+	url = git@github.com-automate6500:automate6500/codeship-demo.git
+[submodule "Ch04/04_01"]
+	path = Ch04/04_01
+	url = git@github.com:managedkaos/github-actions-demo.git
+[submodule "Ch04/04_02"]
+	path = Ch04/04_02
+	url = git@gitlab.com-automate6500:automate6500/gitlabci-demo.git
+[submodule "Ch02/02_01"]
+	path = Ch02/02_01
+	url = git@github.com-automate6500:automate6500/travisci-demo.git
