@@ -13,9 +13,6 @@
 [submodule "Ch03/03_01"]
 	path = Ch03/03_01
 	url = git@github.com-automate6500:automate6500/aws-codepipeline-demo.git
-[submodule "Ch03/03_02"]
-	path = Ch03/03_02
-	url = git@ssh.dev.azure.com-automate6500:v3/automate6500/azure-pipelines-demo/azure-pipelines-demo
 [submodule "Ch02/02_03"]
 	path = Ch02/02_03
 	url = git@github.com-automate6500:automate6500/circleci-demo.git
