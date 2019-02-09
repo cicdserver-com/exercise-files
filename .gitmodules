@@ -1,6 +1,3 @@
-[submodule "Ch01/01_02"]
-	path = Ch01/01_02
-	url = git@github.com-automate6500:automate6500/bamboo-demo.git
 [submodule "Ch01/01_03"]
 	path = Ch01/01_03
 	url = git@github.com-automate6500:automate6500/teamcity-demo.git
