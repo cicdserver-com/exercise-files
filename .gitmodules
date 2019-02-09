@@ -1,6 +1,3 @@
-[submodule "Ch01/01_04"]
-	path = Ch01/01_04
-	url = git@github.com-automate6500:automate6500/gocd-demo.git
 [submodule "Ch03/03_01"]
 	path = Ch03/03_01
 	url = git@github.com-automate6500:automate6500/aws-codepipeline-demo.git
